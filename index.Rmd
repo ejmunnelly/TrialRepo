@@ -8,6 +8,16 @@ date: "2023-08-20"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+git status 
+
+git add -A 
+
+git commit -am '<message>' 
+
+git push 
+
+git pull 
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
